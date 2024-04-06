@@ -6,11 +6,11 @@
 
 Склонируйте репозиторий проекта локально:
 
- - git clone https://github.com/your_username/your_project_name.git
+ - git clone https://github.com/daniel-cosmetologist/test_2.git
 
 Перейдите в каталог проекта:
 
- - cd your_project_name
+ - cd test_2
 
 ## Запуск проекта
 
@@ -32,4 +32,4 @@ F.py - модуль с декоратором для замера времени
 
 ## Контакты
 
-Если у вас возникли вопросы по проекту, пожалуйста, свяжитесь со мной по адресу [danielyumanin@mail.ru].# test_2
+e-mail: [danielyumanin@mail.ru]
